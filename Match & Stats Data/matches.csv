@@ -1,0 +1,65 @@
+id;match_kind;date_time;first_team;second_team;first_team_score;second_team_score;first_team_posession;second_team_possession
+groupamatch1qatarecuador;Group A  Match 1;20/11/2022 23.00;QATAR;ECUADOR;0;2;42%;50%
+groupbmatch3englandiran;Group B  Match 3;21/11/2022 20.00;ENGLAND;IRAN;6;2;72%;19%
+groupamatch2senegalnetherlands;Group A  Match 2;21/11/2022 23.00;SENEGAL;NETHERLANDS;0;2;44%;45%
+groupbmatch4unitedstateswales;Group B  Match 4;22/11/2022 02.00;UNITED STATES;WALES;1;1;51%;39%
+groupcmatch8argentinasaudiarabia;Group C  Match 8;22/11/2022 17.00;ARGENTINA;SAUDI ARABIA;1;2;64%;24%
+groupdmatch6denmarktunisia;Group D  Match 6;22/11/2022 20.00;DENMARK;TUNISIA;0;0;55%;33%
+groupcmatch7mexicopoland;Group C  Match 7;22/11/2022 23.00;MEXICO;POLAND;0;0;54%;31%
+groupdmatch5franceaustralia;Group D  Match 5;23/11/2022 02.00;FRANCE;AUSTRALIA;4;1;56%;35%
+groupfmatch12moroccocroatia;Group F  Match 12;23/11/2022 17.00;MOROCCO;CROATIA;0;0;32%;57%
+groupematch11germanyjapan;Group E  Match 11;23/11/2022 20.00;GERMANY;JAPAN;1;2;65%;22%
+groupematch10spaincostarica;Group E  Match 10;23/11/2022 23.00;SPAIN;COSTA RICA;7;0;74%;17%
+groupfmatch9belgiumcanada;Group F  Match 9;24/11/2022 02.00;BELGIUM;CANADA;1;0;46%;43%
+groupgmatch13switzerlandcameroon;Group G  Match 13;24/11/2022 17.00;SWITZERLAND;CAMEROON;1;0;43%;46%
+grouphmatch14uruguaykorearepublic;Group H  Match 14;24/11/2022 20.00;URUGUAY;KOREA REPUBLIC;0;0;49%;38%
+grouphmatch15portugalghana;Group H  Match 15;24/11/2022 23.00;PORTUGAL;GHANA;3;2;55%;35%
+groupgmatch16brazilserbia;Group G  Match 16;25/11/2022 02.00;BRAZIL;SERBIA;2;0;53%;34%
+groupbmatch17walesiran;Group B  Match 17;25/11/2022 17.00;WALES;IRAN;0;2;51%;33%
+groupamatch18qatarsenegal;Group A  Match 18;25/11/2022 20.00;QATAR;SENEGAL;1;3;42%;48%
+groupamatch19netherlandsecuador;Group A  Match 19;25/11/2022 23.00;NETHERLANDS;ECUADOR;1;1;48%;39%
+groupbmatch20englandunitedstates;Group B  Match 20;26/11/2022 02.00;ENGLAND;UNITED STATES;0;0;51%;40%
+groupdmatch21tunisiaaustralia;Group D  Match 21;26/11/2022 17.00;TUNISIA;AUSTRALIA;0;1;50%;31%
+groupcmatch22polandsaudiarabia;Group C  Match 22;26/11/2022 20.00;POLAND;SAUDI ARABIA;2;0;30%;57%
+groupdmatch23francedenmark;Group D  Match 23;26/11/2022 23.00;FRANCE;DENMARK;2;1;44%;44%
+groupcmatch24argentinamexico;Group C  Match 24;27/11/2022 02.00;ARGENTINA;MEXICO;2;0;50%;36%
+groupematch25japancostarica;Group E  Match 25;27/11/2022 17.00;JAPAN;COSTA RICA;0;1;48%;39%
+groupfmatch26belgiummorocco;Group F  Match 26;27/11/2022 20.00;BELGIUM;MOROCCO;0;2;56%;32%
+groupfmatch27croatiacanada;Group F  Match 27;27/11/2022 23.00;CROATIA;CANADA;4;1;41%;46%
+groupematch28spaingermany;Group E  Match 28;28/11/2022 02.00;SPAIN;GERMANY;1;1;56%;33%
+groupgmatch29cameroonserbia;Group G  Match 29;28/11/2022 17.00;CAMEROON;SERBIA;3;3;38%;49%
+grouphmatch30korearepublicghana;Group H  Match 30;28/11/2022 20.00;KOREA REPUBLIC;GHANA;2;3;53%;32%
+groupgmatch31brazilswitzerland;Group G  Match 31;28/11/2022 23.00;BRAZIL;SWITZERLAND;1;0;51%;40%
+grouphmatch32portugaluruguay;Group H  Match 32;29/11/2022 02.00;PORTUGAL;URUGUAY;2;0;53%;35%
+groupamatch36netherlandsqatar;Group A  Match 36;29/11/2022 22.00;NETHERLANDS;QATAR;2;0;54%;38%
+groupamatch35ecuadorsenegal;Group A  Match 35;29/11/2022 22.00;ECUADOR;SENEGAL;1;2;51%;32%
+groupbmatch33walesengland;Group B  Match 33;30/11/2022 02.00;WALES;ENGLAND;0;3;33%;58%
+groupbmatch34iranunitedstates;Group B  Match 34;30/11/2022 02.00;IRAN;UNITED STATES;0;1;42%;45%
+groupdmatch37australiadenmark;Group D  Match 37;30/11/2022 22.00;AUSTRALIA;DENMARK;1;0;24%;60%
+groupdmatch38tunisiafrance;Group D  Match 38;30/11/2022 22.00;TUNISIA;FRANCE;1;0;30%;56%
+groupcmatch39polandargentina;Group C  Match 39;02 : 00  -  01 DEC 2022;POLAND;ARGENTINA;0;2;24%;67%
+groupcmatch40saudiarabiamexico;Group C  Match 40;02 : 00  -  01 DEC 2022;SAUDI ARABIA;MEXICO;1;2;29%;55%
+groupfmatch41croatiabelgium;Group F  Match 41;22 : 00  -  01 DEC 2022;CROATIA;BELGIUM;0;0;43%;47%
+groupfmatch42canadamorocco;Group F  Match 42;22 : 00  -  01 DEC 2022;CANADA;MOROCCO;1;2;52%;36%
+groupematch43japanspain;Group E  Match 43;02 : 00  -  02 DEC 2022;JAPAN;SPAIN;2;1;14%;78%
+groupematch44costaricagermany;Group E  Match 44;02 : 00  -  02 DEC 2022;COSTA RICA;GERMANY;2;4;27%;60%
+grouphmatch45ghanauruguay;Group H  Match 45;22 : 00  -  02 DEC 2022;GHANA;URUGUAY;0;2;46%;39%
+grouphmatch46korearepublicportugal;Group H  Match 46;22 : 00  -  02 DEC 2022;KOREA REPUBLIC;PORTUGAL;2;1;34%;55%
+groupgmatch47serbiaswitzerland;Group G  Match 47;02 : 00  -  03 DEC 2022;SERBIA;SWITZERLAND;2;3;45%;41%
+groupgmatch48cameroonbrazil;Group G  Match 48;02 : 00  -  03 DEC 2022;CAMEROON;BRAZIL;1;0;31%;56%
+roundof16match49netherlandsunitedstates;Round of 16  Match 49;22 : 00  -  03 DEC 2022;NETHERLANDS;UNITED STATES;3;1;33%;54%
+roundof16match50argentinaaustralia;Round of 16  Match 50;02 : 00  -  04 DEC 2022;ARGENTINA;AUSTRALIA;2;1;53%;35%
+roundof16match52francepoland;Round of 16  Match 52;22 : 00  -  04 DEC 2022;FRANCE;POLAND;3;1;48%;42%
+roundof16match51englandsenegal;Round of 16  Match 51;02 : 00  -  05 DEC 2022;ENGLAND;SENEGAL;3;0;54%;35%
+roundof16match53japancroatia;Round of 16  Match 53;22 : 00  -  05 DEC 2022;JAPAN;CROATIA;1;1;35%;51%
+roundof16match54brazilkorearepublic;Round of 16  Match 54;02 : 00  -  06 DEC 2022;BRAZIL;KOREA REPUBLIC;4;1;47%;44%
+roundof16match55moroccospain;Round of 16  Match 55;22 : 00  -  06 DEC 2022;MOROCCO;SPAIN;0;0;22%;68%
+roundof16match56portugalswitzerland;Round of 16  Match 56;02 : 00  -  07 DEC 2022;PORTUGAL;SWITZERLAND;6;1;43%;48%
+quarterfinalmatch58croatiabrazil;Quarter-final  Match 58;22 : 00  -  09 DEC 2022;CROATIA;BRAZIL;1;1;45%;45%
+quarterfinalmatch57netherlandsargentina;Quarter-final  Match 57;02 : 00  -  10 DEC 2022;NETHERLANDS;ARGENTINA;2;2;45%;44%
+quarterfinalmatch60moroccoportugal;Quarter-final  Match 60;22 : 00  -  10 DEC 2022;MOROCCO;PORTUGAL;1;0;22%;65%
+quarterfinalmatch59englandfrance;Quarter-final  Match 59;02 : 00  -  11 DEC 2022;ENGLAND;FRANCE;1;2;54%;36%
+semifinalmatch61argentinacroatia;Semi-final  Match 61;02 : 00  -  14 DEC 2022;ARGENTINA;CROATIA;3;0;34%;54%
+semifinalmatch62francemorocco;Semi-final  Match 62;02 : 00  -  15 DEC 2022;FRANCE;MOROCCO;2;0;34%;55%
+playoffforthirdplacematch63croatiamorocco;Play-off for third place  Match 63;22 : 00  -  17 DEC 2022;CROATIA;MOROCCO;2;1;45%;45%
+finalmatch64argentinafrance;Final  Match 64;22 : 00  -  18 DEC 2022;ARGENTINA;FRANCE;3;3;46%;40%
